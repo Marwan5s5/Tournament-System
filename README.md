@@ -1,5 +1,3 @@
-# Tournament-System
-A tournament system for calculating the score for a teams/individuals also an updated admin page to allow editing the rules and users.
 Tournament Management System
 Overview
 The Tournament Management System is a web-based application designed to facilitate the organization and management of both individual and team tournaments. It allows users to register, enroll in tournaments, submit entries, and facilitates scoring and validation processes. The system also includes administrative functionalities for managing tournaments, users, and generating reports.
